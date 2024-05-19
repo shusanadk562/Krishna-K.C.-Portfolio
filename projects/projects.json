@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Oda Khabar",
+    "desc": "All should be united to make Kohalpur prosperous: MP Model",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://odakhabar.com/province/province5/290//"
+    }
+  },
+  {
+    "name": "Dang Television",
+    "desc": "कोहलपुरलाई सम्बृद्धि बनाउन सबै एकजुट हुन पर्ने ः सांसद नमुना",
+    "image": "flipkartmern",
+    "category": "news",
+    "links": {
+      "view": "https://dangtvonline.com/archives/18507/"
+    }
+  },
+  {
+    "name": "Adarsha24 news",
+    "desc": "कोहलपुरको विकासका लागि एकै स्वर र एकै बोली हुनुपर्नेमा सांसद नमुनाको जोड",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://adarsh24news.com/?p=2290/"
+    }
+  }
+]
